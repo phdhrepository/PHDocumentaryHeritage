@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 identifier,Unique Identifier,,
-type,Type,
 title,Title,
+type,Type,
 creator,Creator,
 date,Date Created,
 link,Link to Work,,true
