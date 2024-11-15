@@ -1,15 +1,19 @@
 field,display_name,browse_link,external_link
+identifier,Unique Identifier,,
+type,Type,
 title,Title,
 creator,Creator,
 date,Date Created,
-description,Description,
+link,Link to Work,,true
+access,Access restrictions,
+statement,Curatorial Statement,
 subject,Subjects,true
+description,Form Specific Description,
+contributors,Contributors,
 location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
-identifier,Source Identifier,,
-type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
