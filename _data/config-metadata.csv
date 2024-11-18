@@ -4,8 +4,9 @@ title,Title,
 type,Type,
 creator,Creator,
 date,Date Created,
-link,Link to Work,,true
 access,Access restrictions,
+link_external,Access Link (External),,true
+link_internal,PHDH Server Link,,true
 statement,Curatorial Statement,
 subject,Subjects,true
 description,Form Specific Description,
