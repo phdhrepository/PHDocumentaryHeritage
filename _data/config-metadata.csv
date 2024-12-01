@@ -4,10 +4,11 @@ title,Title,
 type,Type,
 creator,Creator,
 date,Date Created,
-access,Access restrictions,
+access,Access Restrictions,
 link_external,Access Link (External),,true
 link_internal,PHDH Server Link,,true
-statement,Curatorial Statement,
+statement_supplied,Curatorial Statement,,
+statement_discovery,Curatorial Statement,,
 subject,Subjects,true
 description,Form Specific Description,
 contributors,Contributors,
