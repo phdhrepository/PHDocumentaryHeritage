@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 identifier,Unique Identifier,,
 title,Title,
-type,Type,
+type_art,Type of Artwork
 creator,Creator,
 date,Date Created,
 access,Access Restrictions,
@@ -17,5 +17,6 @@ latitude,Latitude
 longitude,Longitude
 source,Source
 format,Format,
+type,Object Type,
 rights,Rights,
 rightsstatement,Rights Statement,,true
