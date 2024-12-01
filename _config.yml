@@ -20,12 +20,15 @@ source-code: https://github.com/phdhrepository/PHDocumentaryHeritage
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-GH 
+#title: CollectionBuilder-GH 
+title: Philippine Documentary Heritage 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+# tagline: a template for creating simple digital exhibits
+tagline: Digitial Repository on the COVID-19 Pandemic
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+# description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "The Philippine Documentary Heritage Archival Collection on the COVID-19 Pandemic or PHDH is a non-profit initiative that aims to set up a digital repository of creative works and experiences of Philippine artists and cultural workers during the COVID-19 Pandemic."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Philippine Documentary Heritage
 
@@ -41,10 +44,10 @@ metadata: phdh-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Polytechnic University of the Philippines"
+organization-link: https://www.pup.edu.ph/
+organization-logo-banner: https://www.pup.edu.ph/resources/images/logo.png
+#organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
 # ROBOTS EXCLUDE
