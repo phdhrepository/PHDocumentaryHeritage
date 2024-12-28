@@ -1,64 +1,324 @@
 objectid,filename,youtubeid,vimeoid,identifier,title,type,type_art,creator,date,access,link_external,link_internal,statement_supplied,statement_discovery,subject,description,contributors,location,latitude,longitude,source,format,language,rights,rightsstatement
-PHDH_Ly_039,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R8.png?raw=true,,,PHDH_BackUp_CF1_R8,"""Joan, Jetro, Juno at Jovit""",Image;StillImage,Literary arts,"Dela Cruz, Maria Gracia G., “Grace”",6/1/2020,Information and access copy,https://drive.google.com/u/4/open?usp=forms_web&id=1D_IFKVVmouJDLPy6Xj3-71ixofcGZDIs,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
-Form/Type: Poetry
-No. of Pages: 1 
-No. of Images:",,Region 3,14.86545597,120.8810978,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Ly_040,phdh_backup_cf1_r19.pdf,,,PHDH_BackUp_CF1_R19,"""Lessons on chores""",Image;StillImage,Literary arts,"Tabor-Farjani, Noeme Grace C.",6/1/2020,"Information, access link, & access copy",https://globalpoemic.wordpress.com/2020/07/24/lessons-on-chores/,,,,"Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Information and communication;Leisure;Change of built environment","Subject: 
-Form/Type: Poetry
-No. of Pages: 1 
-No. of Images:","Publisher: 
-Producer: 
-Compiler: Global Poemic Wordpress
-Editor (if anthology): 
-Coordinator: 
-Writer/contributor: 
-Translator:
-Book designer: 
-Lay-out artist: 
-Voice-over/Performer:",Region 10,8.493076805,124.6710756,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,application/pdf,eng,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Ly_026,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R37.png?raw=true,,,PHDH_BackUp_CF1_R37,"""Ang larong sila lang ang panalo""",Image;StillImage,Literary arts,"Diano, Roselle Ann D., “Mayari Sitan”",5/16/2020,"Information, access link, & access copy",https://drive.google.com/u/4/open?usp=forms_web&id=15oXEsR4eHtDMBUNnNrJqzcmDA1ppsjxj,,,,"COVID-19;Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Information and communication;Violations and crime","Subject: 
-Form/Type: Poetry
-No. of Pages: 
-No. of Images:",,NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Ly_027,phdh_backup_cf1_r10.pdf,,,PHDH_BackUp_CF1_R10,"""May digmaan sa aming tiyan""",Image;StillImage,Literary arts,"Manzon, Jenilyn C.",5/17/2020,"Information, access link, & access copy",https://web.facebook.com/469729150522184/photos/a.705390320289398/706139056881191/,,,,"COVID-19;Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Education;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
-Form/Type: Poetry
-No. of Pages: 
-No. of Images:","Publisher: 
-Producer: 
-Compiler: ANAKBAYAN PUP CAL
-Editor (if anthology): 
-Coordinator: 
-Writer/contributor: 
-Translator:
-Book designer: 
-Lay-out artist: 
-Voice-over/Performer:",NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,application/pdf,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Ly_053,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R31.png?raw=true,,,PHDH_BackUp_CF1_R31,"""While the world is put to a halt""",Image;StillImage,Literary arts,"Cuizon, Ruth F.",circa August 2020,Information and access link,https://www.facebook.com/watch/?v=332732941191559,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations)","Subject: 
-Form/Type: Poetry
-No. of Pages: 
-No. of Images:","Publisher: 
-Producer: 
-Compiler: Nagkahiusang Magsusulat sa Cagayan de Oro
-Editor (if anthology): 
-Coordinator: 
-Writer/contributor: 
-Translator:
-Book designer: 
-Lay-out artist: 
-Voice-over/Performer:",Region 10,8.493076805,124.6710756,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,eng,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_025,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R248.png?raw=true,,,PHDH_BackUp_CF1_R248,Stranded,Image;StillImage,Cinema,"Miraña, Cathrynn Joyce P., “Cath”",5/1/2020,Information and access link,https://www.facebook.com/quarantineshorts/videos/2565213627055596,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
+PHDH_Arvi_001,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/01%20PHDH_BackUp_CF1_R233.png?raw=true,,,PHDH_BackUp_CF1_R233,Sa kabilang banda,Image;StillImage,Cinema,"Zacate, Nickey S., “Nickey”",2020 March 20,"Information, access link, & access copy",,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
 Form/Type: Short film
-Duration: 00:05:00",,Region 5,13.1401557,123.7357678,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_026,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R43.png?raw=true,,,PHDH_BackUp_CF1_R43,Witness,Image;StillImage,Cinema,"Ojano, Juan Carlos C.",5/1/2020,"Information, access link, & access copy",https://drive.google.com/file/d/1njBttBY5rJRZIji0D9PpJIMhvKRqWGni/view?usp=sharing; https://vimeo.com/418926478,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation);Violations and crime","Subject: 
+Duration: 00:02:07","Producer: 
+Director: 
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer: 
+Editor: 
+Production Designer: 
+Sound Designer:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_002,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/02%20PHDH_BackUp_CF1_R70a.png?raw=true,,,PHDH_BackUp_CF1_R70a,Relief,Image;StillImage,Cinema,"Delos Santos, Jude Cedric A., “Namarapara / Dyud”",2020 March 27,"Information, access link, & access copy",https://www.youtube.com/watch?v=O_cU3Fce21g,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Information and communication;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject:
 Form/Type: Short film
-Duration: 00:10:28",,Region 4A,14.13023189,121.0066733,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_036,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R118.png?raw=true,,,PHDH_BackUp_CF1_R118,Sa apat na sulok,Image;StillImage,Cinema,"Legaspina, Marissa C., “Scarlet M. Mendoza”",8/29/2020,"Information, access link, & access copy",,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Religious life;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Duration: 00:06:45",,Region 5,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_003,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/03%20PHDH_BackUp_CF1_R70b.png?raw=true,,,PHDH_BackUp_CF1_R70b,Tawid,Image;StillImage,Cinema,"Delos Santos, Jude Cedric A., “Namarapara / Dyud”",2020 April 1,"Information, access link, & access copy",https://www.youtube.com/watch?v=f77vP3pUh8A,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Information and communication;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
 Form/Type: Short film
-Duration: 00:07:36",,NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_039,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R119B.png?raw=true,,,PHDH_BackUp_CF1_R119B,Kapia: Quarantine life in Baguio City,Image;StillImage,Cinema,"Dasalla, Jonnie Lyn P.",8/1/2020,Information and access link,https://www.youtube.com/watch?v=pmF9TDn-Rpo,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Heritage and cultural activities","Subject: 
+Duration: 00:02:29",,Region 5,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_004,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/04%20PHDH_BackUp_CF1_R70c.png?raw=true,,,PHDH_BackUp_CF1_R70c,Quarantine pass,Image;StillImage,Cinema,"Delos Santos, Jude Cedric A., “Namarapara / Dyud”",2020 April 03,"Information, access link, & access copy",https://www.youtube.com/watch?v=1DcK8UQQab0,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Information and communication;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:04:18",,Region 5,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_005,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/05%20PHDH_BackUp_CF1_R70d.png?raw=true,,,PHDH_BackUp_CF1_R70d,Mang Ruben,Image;StillImage,Cinema,"Delos Santos, Jude Cedric A., “Namarapara / Dyud”",2020 April 06,"Information, access link, & access copy",https://www.youtube.com/watch?v=7OvbTL9i6Mg,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Information and communication;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:07:01",,Region 5,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_006,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/06%20PHDH_BackUp_CF1_R70e.png?raw=true,,,PHDH_BackUp_CF1_R70e,After lockdown,Image;StillImage,Cinema,"Delos Santos, Jude Cedric A., “Namarapara / Dyud”",2020 April 12,"Information, access link, & access copy",https://www.youtube.com/watch?v=UelHS3RVnTI,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Information and communication;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:04:10",,Region 5,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_007,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/07%20PHDH_BackUp_CF1_R158.png?raw=true,,,PHDH_BackUp_CF1_R158,Tunga,Image;StillImage,Cinema,"Alconga, Junmarl B. ""Jun Marl”; Desamparado, Kent John D. “Kedji”; Simbahon, Jesbert",2020 April 14,Information and access link,https://www.facebook.com/pcepofficial/videos/568118210504611,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Education","Subject: 
+Form/Type: Drama
+Duration: 00:01:24",,Region 6,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_008,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/08%20PHDH_BackUp_CF1_R195.png?raw=true,,,PHDH_BackUp_CF1_R195,Gripo,Image;StillImage,Cinema,"Braza, Brandon Kent D., “Brandon Braza”",2020 April 18,Information and access link,https://drive.google.com/file/d/1X9dz0L8Fu0q-ubf7Y1kBIOhBCFeVpTfO/view?usp=drivesdk,,,,"Lockdown (e.g. community quarantines, passes)","Subject: 
+Form/Type: Short film
+Duration: 00:02:41",,Region 6,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_009,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/09%20PHDH_BackUp_CF1_R85B.png?raw=true,,,PHDH_BackUp_CF1_R85B,Pagkatapos nito,Image;StillImage,Cinema,"Burgos, Jose Luis T., “JL Burgos”",2020 April 20,Information and access link,https://www.facebook.com/watch/?ref=search&v=161029651899443&external_log_id=3a0c2419-a79a-4c16-bb67-23cf2a26deb1&q=pagkatapos%20nito,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Shelter;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:05:00","Producer: Bong Ramilo and the Village Idiots
+Director: JL Burgos
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer: JL Burgos
+Editor: JL Burgos
+Production Designer: 
+Sound Designer:
+Music and Lyrics: Joseph Purugganan",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_010,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/10%20PHDH_BackUp_CF1_R149.png?raw=true,,,PHDH_BackUp_CF1_R149,"
+Lockdown Episode 3: Frontliners
+",Image;StillImage,Cinema,"Maniquis, Maria Lourdes N., “Malu Maniquis”",2020 April 23,"Information, access link, & access copy",https://www.youtube.com/watch?v=R_Xd8QYVLK8,Artwork available for viewing at the PUP Library on campus. ,,,"Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Education;Transportation;Solidarity (e.g. mobilization and non-government/private aid and assistance)","Subject: 
 Form/Type: Dokyu
-Duration: 00:06:19",,CAR,16.41507279,120.5960024,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_040,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R207.png?raw=true,,,PHDH_BackUp_CF1_R207,Karen is trying to connect,Image;StillImage,Cinema,"De Guzman, Regin D.; Pantajo, Bradley Jason",circa 2020 August,Information and access link,https://drive.google.com/file/d/1DVdG8wDoOH635BrQTCJ7446sMm4mWw3X/view?usp=drivesdk,,,,"Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Education;Information and communication","Subject: 
+Duration: 00:07:53","Producer:
+Director: JL Burgos
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer:
+Editor:
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_011,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/11%20PHDH_BackUp_CF1_R244.png?raw=true,,,PHDH_BackUp_CF1_R244,Ullaw,Image;StillImage,Cinema,"Batara, Rocel Audrey J.",2020 April,Information and access link,https://fb.watch/cZIXAWe2Ls/,,,,"Lockdown (e.g. community quarantines, passes);Leisure","Subject: 
+Form/Type: Short film
+Duration: 00:02:36","Producer:
+Director: Rocel Audrey Batara
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer:
+Editor: Rocel Audrey Batara
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",Region 2,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_012,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/12%20PHDH_BackUp_CF1_R85.png?raw=true,,,PHDH_BackUp_CF1_R85,Lockdown Journal,Image;StillImage,Cinema,"Burgos, Jose Luis T., “JL Burgos”",2020 April,Information and access link,https://www.facebook.com/watch/?v=896458830798217,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Shelter;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:03:00","Producer:
+Director: JL Burgos
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer:
+Editor:
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_013,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/13%20PHDH_BackUp_CF1_R155B.png?raw=true,,,PHDH_BackUp_CF1_R155B,Hintay,Image;StillImage,Cinema,"Cabudbud, Edrian Aseniero",2020 April,Information and access copy,https://drive.google.com/drive/folders/1R6a_-XmjV5nejMzX80yH7sO8mRNPNSTM?usp=sharing,Artwork available for viewing at the PUP Library on campus. ,,,"Lockdown (e.g. community quarantines, passes);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Drama
+Duration: 00:01:41",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_014,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/14%20PHDH_BackUp_CF1_R193.png?raw=true,,,PHDH_BackUp_CF1_R193,Quarantine daydream,Image;StillImage,Cinema,"Jocson, Charlton John",circa 2020 April,Information and access link,https://youtu.be/mKpdkST7Aj4,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare","Subject: 
+Form/Type: Drama
+Duration: 00:03:01","Producer:
+Director: Charlton Jocson
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer:
+Editor:
+Production Designer: 
+Sound Designer:
+Music and Lyrics: ",Region 6,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_015,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/15%20PHDH_BackUp_CF1_R160.png?raw=true,,,PHDH_BackUp_CF1_R160,Class of 2020,Image;StillImage,Cinema,"Planilla, Robinson D., “Robin Planilla”",2020 April,Information and access copy,https://youtu.be/vnbw4w8CB9Y,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Education;Information and communication;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:14:00","Producer: Laser Rock Cinema
+Director: Robinson Planilla
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer:
+Editor: Jose Mari Sigua
+Production Designer: 
+Sound Designer:
+Music and Lyrics: ",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_016,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/16%20PHDH_BackUp_CF1_R245.png?raw=true,,,PHDH_BackUp_CF1_R245,Positibo,Image;StillImage,Cinema,"Silencio, Mark Christian C.",2020 April,"Information, access link, & access copy",https://www.facebook.com/watch/?ref=search&v=889101208168355&external_log_id=1c8a256b-fd83-423d-bdb2-c50b6c5e651d&q=positibo%20film,Artwork available for viewing at the PUP Library on campus. ,,,"Lockdown (e.g. community quarantines, passes);Health and healthcare","Subject: 
+Form/Type: Short film
+Duration: 00:02:20","Producer: SIKHAY FILM Production
+Director: Mark Christian Silencio
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer:
+Editor: 
+Production Designer: Mercedita Crisostomo
+Sound Designer:
+Music and Lyrics: ",Region 3,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_017,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/17%20PHDH_BackUp_CF1_R70f.png?raw=true,,,PHDH_BackUp_CF1_R70f,Lifter liquor ban,Image;StillImage,Cinema,"Delos Santos, Jude Cedric A., “Namarapara / Dyud”",2020 May 01,"Information, access link, & access copy",https://www.youtube.com/watch?v=UU6kDiyV0ps,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Information and communication;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:02:38",,Region 5,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_018,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/18%20PHDH_BackUp_CF1_R264.png?raw=true,,,PHDH_BackUp_CF1_R264,Kandado,Image;StillImage,Cinema,"Golla, Jovencio II Robles, “Joven”",2020 May 09,Information and access link,https://www.youtube.com/watch?v=CLaoJxGFoEk,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
+Form/Type: Short film
+Duration: 00:05:01","Producer: 
+Director: Joven Golla II
+Assistant Director: Mark Raymond Martinez
+Story: 
+Screenplay: 
+Cinematographer: Mark Raymond Martinez
+Editor: Joven Golla II
+Production Designer: 
+Sound Designer:
+Music and Lyrics: ",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_019,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/19%20PHDH_BackUp_CF1_R146.png?raw=true,,,PHDH_BackUp_CF1_R146,Pagbangon,Image;StillImage,Cinema,"Flotildes, John Remel J., “Remel”",2020 May 17,"Information, access link, & access copy",https://www.youtube.com/watch?v=us9PceTKMqs,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Health and healthcare;Mental Health","Subject: 
+Form/Type: Short film
+Duration: 00:04:46","Producer: Create Film Poduction; jrjf still/ remelism
+Director: jrjf still
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer: 
+Editor: jrjf still
+Production Designer: 
+Sound Designer:
+Music and Lyrics: ",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_020,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/20%20PHDH_BackUp_CF1_R208.png?raw=true,,,PHDH_BackUp_CF1_R208,De lata,Image;StillImage,Cinema,"Maza, John Agabus M., ""AGABUS""",2020 May 19,Information and access link,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:02:45",,Region 4B,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_021,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/21%20PHDH_BackUp_CF1_R80.png?raw=true,,,PHDH_BackUp_CF1_R80,Shooting COVID-19: Media frontliners in Manila,Image;StillImage,Cinema,"Catoy, Virgilio II, “King Catoy”",2020 May 20,Information and access link,https://cinemata.org/view?m=oMf7Ys4l5,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Shelter;Solidarity (e.g. mobilization and non-government/private aid and assistance)","Subject: 
+Form/Type: Dokyu
+Duration: 00:08:39","Producer: EngageMedia
+Director: 
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer: 
+Editor: King Catoy
+Production Designer: 
+Sound Designer:
+Music and Lyrics: ",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_022,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/22%20PHDH_BackUp_CF1_R198.png?raw=true,,,PHDH_BackUp_CF1_R198,"Paglabas (inspired film from ""Ritual"" by Rant Collective)",Image;StillImage,Cinema,"Calma, Donald Jr.  D., “DJ/Donald”",2020 May 22,Information and access link,https://drive.google.com/file/d/1ys3WjhGltX8xUMCLVjO8Z7kBfBklNGeR/view?usp=drivesdk,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
+Form/Type: Short film
+Duration: 00:02:07",,Region 2,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_023,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/23%20PHDH_BackUp_CF1_R147.png?raw=true,,,PHDH_BackUp_CF1_R147,Stay at home/Hope,Image;StillImage,Cinema,"Calera, Julius T., “Jc”",2020 May,Information and access link,https://youtu.be/3sg3ys9jbXg,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Shelter","Subject: 
+Form/Type: Dokyu
+Duration: 00:07:20","Producer: 
+Director: Julius ""JC"" Calera
+Assistant Director: 
+Story: 
+Screenplay: Julius ""JC"" Calera
+Cinematographer: Julius ""JC"" Calera
+Editor: Julius ""JC"" Calera
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_024,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/24%20PHDH_BackUp_CF1_R22.png?raw=true,,,PHDH_BackUp_CF1_R22,Oranje,Image;StillImage,Cinema,"Inocencio, Rolando T., “Rolando Inocencio”",2020 May,Information only,,,,,"COVID-19;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation);Violations and crime","Subject: 
+Form/Type: Short film
+Duration: 00:03:00",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_025,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/25%20PHDH_BackUp_CF1_R249.png?raw=true,,,PHDH_BackUp_CF1_R249,Gunita,Image;StillImage,Cinema,"Lumayag, Carlos Dominic C., “Dominic”",2020 May,Information and access link,https://drive.google.com/file/d/1iP1jQ8KxT-OpueHvEMhw1Dx3NpLeJn-9/view?usp=sharing,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations)","Subject: 
+Form/Type: Short film
+Duration: 00:03:50","Producer: Metrolight Productions
+Director: Carlos Lumayag
+Assistant Director: 
+Story: 
+Screenplay: 
+Cinematographer: 
+Editor: 
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",CAR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_026,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/26%20PHDH_BackUp_CF1_R248.png?raw=true,,,PHDH_BackUp_CF1_R248,Stranded,Image;StillImage,Cinema,"Miraña, Cathrynn Joyce P., “Cath”",2020 May,Information and access link,https://www.facebook.com/quarantineshorts/videos/2565213627055596,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
+Form/Type: Short film
+Duration: 00:05:00",,Region 5,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_027,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/27%20PHDH_BackUp_CF1_R43.png?raw=true,,,PHDH_BackUp_CF1_R43,Witness,Image;StillImage,Cinema,"Ojano, Juan Carlos C.",2020 May,"Information, access link, & access copy",https://drive.google.com/file/d/1njBttBY5rJRZIji0D9PpJIMhvKRqWGni/view?usp=sharing; https://vimeo.com/418926478,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation);Violations and crime","Subject: 
+Form/Type: Short film
+Duration: 00:10:28",,Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_028,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/28%20PHDH_BackUp_CF1_R199.png?raw=true,,,PHDH_BackUp_CF1_R199,After the quarantine,Image;StillImage,Cinema,"Pablo, Miguel Eleazar S., “Migi”",circa 2020 May,Information and access link,https://www.youtube.com/watch?v=VqWoOPGsz-I,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
+Form/Type: Short film
+Duration: 00:03:00","Producer: Surfbirds Productions
+Director: Miguel Pablo
+Assistant Director: Raymond Feliciano
+Story: Miguel Pablo
+Screenplay: 
+Cinematographer: 
+Editor: Miguel Pablo
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_029,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/29%20PHDH_BackUp_CF1_R149.png?raw=true,,,PHDH_BackUp_CF1_R149B,Lockdown Episode 8: Guro,Image;StillImage,Cinema,"Maniquis, Maria Lourdes N., “Malu Maniquis”",2020 June 03,"Information, access link, & access copy",https://youtu.be/6JbBmcPisVQ,Artwork available for viewing at the PUP Library on campus. ,,,"Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Education;Transportation;Solidarity (e.g. mobilization and non-government/private aid and assistance)","Subject: 
+Form/Type: Dokyu
+Duration: 00:06:09","Producer: Alliance of Concerned Teachers-Philippines
+Director: Malu Maniquis
+Assistant Director: 
+Story: Malu Maniquis
+Screenplay: 
+Cinematographer: 
+Editor: 
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_030,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/30%20PHDH_BackUp_CF1_R182.png?raw=true,,,PHDH_BackUp_CF1_R182,3:00 AM,Image;StillImage,Cinema,"Del Rosario, John James C., “Jei Chua Del Rosario”",2020 July 19,Information and access copy,https://drive.google.com/file/d/1lIiTL53RJRdQynwHiArXAKWW39m_fiZz/view?usp=sharing,Artwork available for viewing at the PUP Library on campus. ,,,Urban Legend during the lockdown of Covid-19,"Subject: 
+Form/Type: Short film
+Duration: 00:07:09","Producer: Director's Vision Production
+Director: Jei Chua Del Rosario
+Assistant Director: 
+Story: Jei Chua Del Rosario
+Screenplay: 
+Cinematographer: 
+Editor: 
+Production Designer: 
+Sound Designer:
+Music and Lyrics:",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_031,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/31%20PHDH_BackUp_CF1_R143.png?raw=true,,,PHDH_BackUp_CF1_R143,Apo,Image;StillImage,Cinema,"Genuino, Carl Andre T., “Andre Genuino”",2020 July 21,"Information, access link, & access copy",https://drive.google.com/file/d/120SrINwQpXc5zolKE0BgD9VDqF_PoYpG/view?usp=sharing,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Mental Health","Subject: 
+Form/Type: Short film
+Duration: 00:10:53","Producer: Genuine Productions
+Director: Andre Genuino
+Assistant Director: 
+Story: Andre Genuino; Fern Santos
+Screenplay: 
+Cinematographer: Andre Genuino
+Editor: Andre Genuino
+Production Designer: 
+Sound Designer: Andre Genuino
+Music and Lyrics:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_032,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/32%20PHDH_BackUp_CF1_R117.png?raw=true,,,PHDH_BackUp_CF1_R117,Blue room feelings,Image;StillImage,Cinema,"Azuma, Ruka D., “Ruka Azuma”",2020 July,Information and access link,https://drive.google.com/file/d/13FWz6VuAY2WWVlhs3xLVUvfMG8KGtQBt/view?usp=sharing,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Education;Change of built environment","Subject: 
+Form/Type: Short film
+Duration: 00:09:48","Producer: Ruka Azuma; The Namming Company
+Director: Ruka Azuma
+Assistant Director: 
+Story: Ruka Azuma
+Screenplay: 
+Cinematographer: 
+Editor: Ruka Azuma
+Production Designer: 
+Sound Designer: Ruka Azuma
+Music and Lyrics:",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_033,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/33%20PHDH_BackUp_CF1_R141.png?raw=true,,,PHDH_BackUp_CF1_R141,Awit,Image;StillImage,Cinema,"Cabang, Lander Florenz A., “Lander Sy”",2020 July,Information and access link,https://drive.google.com/file/d/1Y6uVGFVOXTcLTP1H6WCuZuznWALU3nkz/view?usp=sharing,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Violations and crime","Subject: 
+Form/Type: Short film
+Duration: 00:08:41","Producer: 
+Director: Lander Sy
+Assistant Director: 
+Story: Lander Sy
+Screenplay: 
+Cinematographer: Marvin Magallanes
+Editor: Anton Andres
+Production Designer: 
+Sound Designer: Rednal Sy; Gilmar Penus
+Music and Lyrics:",Region 3,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_034,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/34%20PHDH_BackUp_CF1_R116.png?raw=true,,,PHDH_BackUp_CF1_R116,3 minutes 2 mukha ng buhay,Image;StillImage,Cinema,"Santos, Angelo Allen G., “James Merquise”",2020 July,Information and access link,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Education","Subject: 
+Form/Type: Short film
+Duration: 00:03:00",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_035,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/35%20PHDH_BackUp_CF1_R190.png?raw=true,,,PHDH_BackUp_CF1_R190,Ayuda,Image;StillImage,Cinema,"Termoso, Ryan John L. ""Ryan Termoso""; Primo, Ray John; De Guzman, Francis; Cadiz, Joel; Ramos, Mariel; Almanzor, Paul; Robles, Jorrel; Bejar, Adam",2020 July,Information and access link,https://www.youtube.com/watch?v=jFhUQ_5pTPA&list=PL7xoKMGFBPs1p9f_RA_Xe6leeR5d9W6UX&index=12,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:12:41","Producer: Brgy. Tibay Films; Nodus Productions
+Director: Ryan Termoso
+Assistant Director: 
+Story: Ryan Termoso
+Screenplay: 
+Cinematographer: 
+Editor: Francis de Guzman
+Production Designer: 
+Sound Designer: 
+Music and Lyrics:",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_036,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/36%20PHDH_BackUp_CF1_R293.png?raw=true,,,PHDH_BackUp_CF1_R293,Makeshift (Tayo),Image;StillImage,Cinema,"Encarnacion, Armyr A.",2020 August 09,Information and access copy,https://www.youtube.com/watch?v=5TTpHiv13YA,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation);LGBT","Subject: 
+Form/Type: Drama
+Duration: 00:15:00","Producer: Renaissance Pirctures
+Director: Armyr A. Encarnacion
+Assistant Director: 
+Story: Armyr A. Encarnacion
+Screenplay: 
+Cinematographer: 
+Editor: Lyca Josh D. Atienza
+Production Designer: Armyr Encarnacion; John Knox Vill; David Revilla
+Sound Designer: 
+Music and Lyrics: Mark Angelo Ilagan",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_037,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/37%20PHDH_BackUp_CF1_R118.png?raw=true,,,PHDH_BackUp_CF1_R118,Sa apat na sulok,Image;StillImage,Cinema,"Legaspina, Marissa C., “Scarlet M. Mendoza”",2020 August 29,"Information, access link, & access copy",,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Religious life;Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Short film
+Duration: 00:07:36",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_038,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/38%20PHDH_BackUp_CF1_R146.png?raw=true,,,PHDH_BackUp_CF1_R146,Full storage,Image;StillImage,Cinema,"Flotildes, John Remel J., “Remel”",2020 August 31,"Information, access link, & access copy",https://youtu.be/zUGCaPI5oFc; https://drive.google.com/file/d/1LRv1vg1x34i-gZtzsuH5NcpU5RUCwYME/view?usp=drivesdk,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Health and healthcare;Mental Health","Subject: 
+Form/Type: Short film
+Duration: 00:05:27","Producer: Create Film Production
+Director: John Remel Flotildes
+Assistant Director: 
+Story: John Remel Flotildes
+Screenplay: John Remel Flotildes
+Cinematographer: John Remel Flotildes
+Editor: John Remel Flotildes
+Production Designer: John Remel Flotildes
+Sound Designer: 
+Music and Lyrics: ",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_039,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/39%20PHDH_BackUp_CF1_R127.png?raw=true,,,PHDH_BackUp_CF1_R127,Estado,Image;StillImage,Cinema,"Aguillon, Mark Justine E., “Justine”",2020 August,"Information, access link, & access copy",,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
+Form/Type: Short film
+Duration: 00:06:46",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_040,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/40%20PHDH_BackUp_CF1_R119B.png?raw=true,,,PHDH_BackUp_CF1_R119B,Kapia: Quarantine life in Baguio City,Image;StillImage,Cinema,"Dasalla, Jonnie Lyn P.",2020 August,Information and access link,https://www.youtube.com/watch?v=pmF9TDn-Rpo,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Heritage and cultural activities","Subject: 
+Form/Type: Dokyu
+Duration: 00:06:19",,CAR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_041,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/41%20PHDH_BackUp_CF1_R207.png?raw=true,,,PHDH_BackUp_CF1_R207,Karen is trying to connect,Image;StillImage,Cinema,"De Guzman, Regin D.; Pantajo, Bradley Jason",circa 2020 August,Information and access link,https://drive.google.com/file/d/1DVdG8wDoOH635BrQTCJ7446sMm4mWw3X/view?usp=drivesdk,,,,"Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Education;Information and communication","Subject: 
 Form/Type: Short film
 Duration: 00:05:00","Producer: Vision in Perspective Production
 Director: Regin De Guzman
@@ -69,11 +329,44 @@ Cinematographer: Bradley Jason Pantajo
 Editor: Bradley Jason Pantajo
 Production Designer: 
 Sound Designer: 
-Music and Lyrics: ",Region 4A,14.13023189,121.0066733,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_046,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R119.png?raw=true,,,PHDH_BackUp_CF1_R119,Namnama en Lolang (Grandmother's hope),Image;StillImage,Cinema,"Dasalla, Jonnie Lyn P.",9/1/2020,Information and access copy,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Heritage and cultural activities","Subject: 
+Music and Lyrics: ",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_042,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/42%20PHDH_BackUp_CF1_R120.png?raw=true,,,PHDH_BackUp_CF1_R120,Hugas kamay,Image;StillImage,Cinema,"De las Alas, Kim Albert A., “Kim de las Alas”",2020 August,"Information, access link, & access copy",,Artwork available for viewing at the PUP Library on campus. ,,,"Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation);Violations and crime","Subject: 
 Form/Type: Short film
-Duration: 00:05:00",,CAR,16.41507279,120.5960024,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_047,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R113.png?raw=true,,,PHDH_BackUp_CF1_R113,Ninlapu ken magsawi,Image;StillImage,Cinema,"Espelimbergo, Ann Michelle M.",circa 2020 September,"Information, access link, & access copy",https://drive.google.com/file/d/1uElbVSC35r5IdvDwcz4G6g1OJ-r6uk0O/view?usp=sharing,,,,COVID-19;Heritage and cultural activities,"Subject: 
+Duration: 00:07:32",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_043,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/43%20PHDH_BackUp_CF1_R25.png?raw=true,,,PHDH_BackUp_CF1_R25,A love letter,Image;StillImage,Cinema,"Tarobal, Juan Carlo B.",circa 2020 August,Information and access link,,,,,Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations),"Subject: 
+Form/Type: Experimental
+Duration: 00:07:00",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_044,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/44%20PHDH_BackUp_CF1_R90.png?raw=true,,,PHDH_BackUp_CF1_R90,Litrato ng pandemya,Image;StillImage,Cinema,"Ventinilla, Jerome V., “Jerome Ventinilla”",2020 August,"Information, access link, & access copy",,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Livelihood (e.g. basic needs such as food/sustenance, income/employment);Information and communication;Change of built environment","Subject: 
+Form/Type: Dokyu
+Duration: 00:08:48",,Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_045,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/45%20PHDH_BackUp_CF1_R105.png?raw=true,,,PHDH_BackUp_CF1_R105,Sa likod ng maskara,Image;StillImage,Cinema,"Tibre, Romel Alden; Castillo, Prince; Tabing, Ralph Jerome; Paraiso, Ayra Jade; Roa, Jayson; Olavydez, Elyzsa Jenwel; Gacho, Kathleen Gail; Bonilla, Lhara Mikhaella",2020 September 16,"Information, access link, & access copy",https://drive.google.com/file/d/1oPeEFMi77kWedpWzlgleSz8DAh07zZaW/view?fbclid=IwAR2KC03ue9vTEsW8NJfdrUMNHGTC_bgidiY6a8XUcLgcX6Nmes-RiruVA1Y;,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: 
+Form/Type: Dokyu
+Duration: 00:09:59","Producer: 
+Director: Romel Tibre
+Assistant Director: 
+Story: Romel Tibre
+Screenplay: Elyzsa Jenwel Olavydez
+Cinematographer: Prince Cyrel Castillo
+Editor: 
+Production Designer: Ayra Jade Paraiso; Lhara Mikhaella Bonilla
+Sound Designer: 
+Music and Lyrics: ",Region 4A,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_046,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/46%20PHDH_BackUp_CF1_R126.png?raw=true,,,PHDH_BackUp_CF1_R126,Wake-up call,Image;StillImage,Cinema,"Rinoza, Raymond H.",2020 September 26,"Information, access link, & access copy",https://youtu.be/TaJHxksp5f4,Artwork available for viewing at the PUP Library on campus. ,,,"Lockdown (e.g. community quarantines, passes)","Subject: 
+Form/Type: Short film
+Duration: 00:06:13","Producer: RHR Productions
+Director: Raymond Rinoza
+Assistant Director: 
+Story: Raymond Rinoza
+Screenplay: 
+Cinematographer: 
+Editor: 
+Production Designer: 
+Sound Designer: 
+Music and Lyrics: ",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_047,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/47%20PHDH_BackUp_CF1_R119.png?raw=true,,,PHDH_BackUp_CF1_R119,Namnama en Lolang (Grandmother's hope),Image;StillImage,Cinema,"Dasalla, Jonnie Lyn P.",2020 September,Information and access copy,,Artwork available for viewing at the PUP Library on campus. ,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Heritage and cultural activities","Subject: 
+Form/Type: Short film
+Duration: 00:05:00",,CAR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_048,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/48%20PHDH_BackUp_CF1_R113.png?raw=true,,,PHDH_BackUp_CF1_R113,Ninlapu ken magsawi,Image;StillImage,Cinema,"Espelimbergo, Ann Michelle M.",circa 2020 September,"Information, access link, & access copy",https://drive.google.com/file/d/1uElbVSC35r5IdvDwcz4G6g1OJ-r6uk0O/view?usp=sharing,Artwork available for viewing at the PUP Library on campus. ,,,COVID-19;Heritage and cultural activities,"Subject: 
 Form/Type: Short film
 Duration: 00:05:00","Producer: 
 Director: Ann Michelle Mailed-Espelimbergo
@@ -84,8 +377,23 @@ Cinematographer:
 Editor: 
 Production Designer: 
 Sound Designer: 
-Music and Lyrics: ",CAR,16.41507279,120.5960024,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Arvi_050,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R214.png?raw=true,,,PHDH_BackUp_CF1_R214,Lonely girls,Image;StillImage,Cinema,"Miras, Pamela Ann A., “Pam Miras”",circa 2020 September,Information and access link,https://drive.google.com/file/d/1Nqq--kVMTTXP3-oZFWwanvuh-5rRqMVW/view?usp=sharing,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations)","Subject: 
+Music and Lyrics: ",CAR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_049,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/49%20PHDH_BackUp_CF1_R60.png?raw=true,,,PHDH_BackUp_CF1_R60,Kulong-kanlungan,Image;StillImage,Cinema,"Laxamana, Marianne Terese Teope ""misswithglasses""; Maga, Angelo Aron Lemuel T.; Ulay, Genesis J.; Jimenez, Clyde Gabriel B.; Suriaga, Abrylle Jairus C.; Catena, Eunice Mari T.; Valerio, Franklin M.; Villanueva, Diana V.; Rosal, Emerson O.; Peñaflor, John Ryan B.",2020 September,Information and access link,https://www.youtube.com/watch?v=8HgRz0H6ARg,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Heritage and cultural activities","Subject: 
+Form/Type: Dokyu
+Duration: 00:05:00","Producer: 
+Director: Marianne Terese T. Laxamana
+Assistant Director: 
+Story: Angelo Aron Lemuel T. Maga
+Screenplay: 
+Cinematographer: Genesis J. Ulay
+Editor: Franklin M. Valerio
+Production Designer: Eunice Marie T. Catena
+Sound Designer: 
+Music and Lyrics: Abylle Jairus C. Suriaga",Region 4B,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_050,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/50%20PHDH_BackUp_CF1_R100.png?raw=true,,,PHDH_BackUp_CF1_R100,Querencia,Image;StillImage,Cinema,"Maquiling, Mark Joseph C. ""Mark""; Manlapaz, Jean Paul; Balubal, Ckiah Keil V.; Bajaro, Clarisse Alyssa M.",2020 September,Information and access link,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare;Livelihood (e.g. basic needs such as food/sustenance, income/employment);Information and communication","Subject: 
+Form/Type: Dokyu
+Duration: 00:09:04",,NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_051,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/51%20PHDH_BackUp_CF1_R214.png?raw=true,,,PHDH_BackUp_CF1_R214,Lonely girls,Image;StillImage,Cinema,"Miras, Pamela Ann A., “Pam Miras”",circa 2020 September,Information and access link,https://drive.google.com/file/d/1Nqq--kVMTTXP3-oZFWwanvuh-5rRqMVW/view?usp=sharing,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations)","Subject: 
 Form/Type: Short film
 Duration: 00:07:48","Producer: Pam Miras; LC De Leon
 Director: Pam Miras
@@ -96,101 +404,16 @@ Cinematographer: LC De Leon
 Editor: Pam Miras
 Production Designer: 
 Sound Designer: LC De Leon; Pam Miras
-Music and Lyrics: Joel Mondoedo; LC De Leon",NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_002,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF2_R19.png?raw=true,,,PHDH_BackUp_CF2_R19,"""Risks and opportunities on the internet"", ""No contact greetings"", ""Staying healthy"", ""Protecting ourselves from COVID-19 pandemic""",Image;StillImage,Manifestations,"Ferrer, Annette A.; Candelaria, Kevin; Sabado, Erika; Australian Embassy",3/1/2020,Information and access link,https://www.canvas.ph/materials-for-learning,,,,COVID-19;Education;Information and communication,"Subject: 
-Form/Type: Post
-Medium and Technique:
-Dimension: use centimeters 
-Duration (only for performance art): use minutes",,NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_006,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF2_R11.png?raw=true,,,PHDH_BackUp_CF2_R11,"Overload aq
-",Image;StillImage,Manifestations,"De Quiroz, Kayla Nicole T. ""Kayla Nicole Togonon""; San Juan, Arthur David",10/1/2020,"Information, access link, & access copy",https://revoltmagazineph.wordpress.com/2020/10/01/overload-aq-togonon-san-juan/,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Non-representational expression","Subject: 
-Form/Type:  Story
-Medium and Technique:
-Dimension: use centimeters 
-Duration (only for performance art): use minutes",,Region 4A,14.13023189,121.0066733,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_019,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R291.png?raw=true,,,PHDH_BackUp_CF1_R291,Pikit-matang pag-asa (Mask of hope),Image;StillImage,Visual arts,"Conlu, Faith Ann J., “Faith Ann Conlu-Rubinos”",circa 2020 August,"Information, access link, & access copy",https://drive.google.com/file/d/1T81VAbL-CzcaxgCV_Z40InTB5epgF32c/view?usp=sharing,,,,COVID-19,"Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Painting
-Dimension: 30.48 cm x 22.86 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_020,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R230B.jpg?raw=true,,,PHDH_BackUp_CF1_R230B,"Perfect love casts out fear 
-Painting",Image;StillImage,Visual arts,"Gose, France A., “Iska”",circa 2020 August,"Information, access link, & access copy",https://drive.google.com/drive/folders/1uEgKdBY1hanFgTw0k3mRRpUUt6eJM_Qh?usp=sharing,,,,COVID-19;Religious life;Inspirational,"Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique: Painting
-Dimension: 
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_021,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R230A.png?raw=true,,,PHDH_BackUp_CF1_R230A,"The air I breathe
-
-",Image;StillImage,Visual arts,"Gose, France A., “Iska” ",circa 2020 August,"Information, access link, & access copy",https://drive.google.com/drive/folders/1uEgKdBY1hanFgTw0k3mRRpUUt6eJM_Qh?usp=sharing,,,,COVID-19;Religious life;Inspirational,"Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique: Painting
-Dimension: 
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_022,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R279.jpg?raw=true,,,PHDH_BackUp_CF1_R279,Quarantine,Image;StillImage,Visual arts,"Velasco, Anna-Marie Sullesta",circa 2020 August,Information and access copy,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Mixed media
-Dimension: 18 cm x 10 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_023,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R279B.jpg?raw=true,,,PHDH_BackUp_CF1_R279B,"Social distancing
-",Image;StillImage,Visual arts,"Velasco, Anna-Marie Sullesta",circa 2020 August,Information and access copy,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare","Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Mixed media
-Dimension: 18 cm x 10 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_034,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R282B.jpg?raw=true,,,PHDH_BackUp_CF1_R282B,1 seat apart,Image;StillImage,Visual arts,"Velasco, Anna-Marie Sullesta",2020,Information and access copy,,,,,"COVID-19;Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Livelihood (e.g. basic needs such as food/sustenance, income/employment)","Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Drawing
-Dimension: 18 cm x 10 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_035,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R280.jpg?raw=true,,,PHDH_BackUp_CF1_R280,Ayuda,Image;StillImage,Visual arts,"Velasco, Anna-Marie Sullesta",2020,Information and access copy,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Non-representational expression","Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Drawing
-Dimension: 18 cm x 10 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_036,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R283.png?raw=true,,,PHDH_BackUp_CF1_R283,Bili na kayo,Image;StillImage,Visual arts,"Velasco, Anna-Marie Sullesta",2020,Information and access copy,,,,,"COVID-19;Livelihood (e.g. basic needs such as food/sustenance, income/employment)","Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Drawing
-Dimension: 18 cm x 10 cm 
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_037,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R281.jpg?raw=true,,,PHDH_BackUp_CF1_R281,Despair,Image;StillImage,Visual arts,"Velasco, Anna-Marie Sullesta",2020,Information and access copy,,,,,COVID-19;Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Health and healthcare,"Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Drawing
-Dimension: 18 cm x 10 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_041,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R282.jpg?raw=true,,,PHDH_BackUp_CF1_R282,What now?,Image;StillImage,Visual arts,"Velasco, Anna-Marie Sullesta",2020,Information and access copy,,,,,COVID-19;Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations),"Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Drawing
-Dimension: 18 cm x 10 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_047,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R261.png?raw=true,,,PHDH_BackUp_CF1_R261,New normal fashionista,Image;StillImage,Visual arts,"Eusoya, Marites O.",3/1/2021,Information and access copy,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes)","Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Painting
-Dimension: 50.8 cm x 81.28 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Adrian_049,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R266.png?raw=true,,,PHDH_BackUp_CF1_R266,"Survival 2
-",Image;StillImage,Visual arts,"Eusoya, Marites O.",6/1/2021,Information and access copy,,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Religious life;Non-representational expression","Subject: 
-Form/Type: Two-dimensional Art
-Medium and Technique:  Mixed media
-Dimension: 60.96 cm x 45.72 cm
-File Type: ",,Region 6,10.71962901,122.5574675,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Jun_034,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R98.png?raw=true,,,PHDH_BackUp_CF1_R98,“Angela Kristine”,Image;StillImage,Visual arts,"Daños, Angela Kristine A.",6/2/2020,"Information, access link, & access copy",https://pupedu-my.sharepoint.com/:i:/g/personal/phdh_research_pup_edu_ph/ERTIqP6PnmFEqjStN2-h8KEBo7UXcg2e_pBt66U6NUlx-Q?e=maPCPc,,,,"COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare","Subject: COVID-19;Lockdown (e.g. community quarantines, passes);Health and healthcare
-Form/Type: Two-dimensional Art
-Medium and Technique: Painting
-Dimension: use centimeters:
-Duration (only for performance art): use minutes",,NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Jun_036,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R89.png?raw=true,,,PHDH_BackUp_CF1_R89,Speak up,Image;StillImage,Visual arts,"Ponseca, Sheena Marie Bandojo",6/2/2020,"Information, access link, & access copy",https://pupedu-my.sharepoint.com/:i:/g/personal/phdh_research_pup_edu_ph/ETHHmHUvsz1HkG6Cl6vUoHUB_OhPAmg_HMX8S4UhHJo6SQ?e=TM22AT,,,,"COVID-19;Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)","Subject: COVID-19;Interpersonal and Intrapersonal relations (e.g. different types/kinds of human relations);Governance (e.g. financial aid or â€œayudaâ€; IATF protocols and guidelines; government projects and programs, laws/legislation)
-Form/Type: Two-dimensional Art
-Medium and Technique: Drawing
-Dimension: use centimeters:15 cm x 21 cm
-Duration (only for performance art): use minutes",,NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Jun_038,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R87.png?raw=true,,,PHDH_BackUp_CF1_R87,Burning with anger,Image;StillImage,Visual arts,"Norva, Hanna Mae A.",6/5/2020,"Information, access link, & access copy",https://pupedu-my.sharepoint.com/:i:/g/personal/phdh_research_pup_edu_ph/EXYK2vJ7eSBFgfeJa3DaxcEB18-2FQ4S5dbrZpMK23l0eQ?e=FQL2dg,,,,"COVID-19","Subject: COVID-19
-Form/Type: Two-dimensional Art
-Medium and Technique: Drawing
-Dimension: use centimeters:4.25 cm x 5.5 cm
-Duration (only for performance art): use minutes",,NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
-PHDH_Jun_039,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Thumbnails/PHDH_BackUp_CF1_R104.jpg?raw=true,,,PHDH_BackUp_CF1_R104,Untitled,Image;StillImage,Visual arts,"Herrera, Marc Nicole D.",6/9/2020,"Information, access link, & access copy",https://pupedu-my.sharepoint.com/:i:/g/personal/phdh_research_pup_edu_ph/EamZHjjKVoRMkjH7Ny1TN3IBCJQwr4FiJKwsMcZmot98EQ?e=iW0PtH,,,,"COVID-19
-","Subject: COVID-19
-Form/Type: Two-dimensional Art
-Medium and Technique: Painting
-Dimension: use centimeters:
-Duration (only for performance art): use minutes",,NCR,14.59394036,120.995078,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+Music and Lyrics: Joel Mondoedo; LC De Leon",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
+PHDH_Arvi_052,https://github.com/phdhrepository/PHDocumentaryHeritage/blob/main/objects/Cinema-Arvi/52%20PHDH_BackUp_CF1_R84.png?raw=true,,,PHDH_BackUp_CF1_R84,Paaralan sa tahanan,Image;StillImage,Cinema,"Morales, Jadrien Marc F., “Jadrien Morales”",2020 September,"Information, access link, & access copy",https://drive.google.com/file/d/1XP1_JdH3Q3uqPJEJo-1Wz0Jl3dQJVQls/view?usp=sharing,Artwork available for viewing at the PUP Library on campus. ,,,COVID-19;Education,"Subject: 
+Form/Type: Dokyu
+Duration: 00:05:06","Producer: 
+Director: Jadrien Morales
+Assistant Director: 
+Story: Jadrien Morales; Symoun Villar; Joshua Abelita
+Screenplay: 
+Cinematographer: Jadrien Morales
+Editor: Jadrien Morales
+Production Designer: 
+Sound Designer: 
+Music and Lyrics: ",NCR,,,Philippine Documentary Heritage Digital Repository on the COVID-19 Pandemic,image/png,fil,Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) ,https://creativecommons.org/licenses/by-nc-sa/4.0/
